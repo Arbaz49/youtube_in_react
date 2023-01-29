@@ -1,0 +1,16 @@
+
+.likebtn{
+    /* background-color: red; */
+    color: black;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 3%;
+    margin-top: 15px;
+}
+.vidContainer{
+    /* border: 2px solid black; */
+    margin-left: 3%;
+    width: 60%;
+    /* box-shadow: 5px 5px 5px 5px black; */
+}
